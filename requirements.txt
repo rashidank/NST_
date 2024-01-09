@@ -3,3 +3,6 @@ Pillow
 matplotlib
 IPython
 numpy
+re
+urllib
+scipy
