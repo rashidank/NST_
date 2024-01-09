@@ -4,7 +4,6 @@ import os
 #!pip install keras==2.3.1
 
 import tensorflow as tf
-import re
 import urllib
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 from matplotlib import pyplot as plt
