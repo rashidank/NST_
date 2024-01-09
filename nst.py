@@ -62,8 +62,7 @@ def imshow(image, title=None):
   if title:
     plt.title(title)
 
-content_image = load_img(r"C:\Users\fayis\Documents\Project_sem_3\content_2.png")
-style_image = load_img(r"C:\Users\fayis\Documents\Project_sem_3\style_image_2.png")
+
 
 plt.subplot(1, 2, 1)
 imshow(content_image, 'Content Image')
