@@ -1,5 +1,5 @@
 tensorflow
-PIL
+Pillow
 matplotlib
 IPython
 numpy
