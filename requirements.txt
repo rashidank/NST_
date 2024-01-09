@@ -3,5 +3,4 @@ Pillow
 matplotlib
 IPython
 numpy
-urllib
 scipy
